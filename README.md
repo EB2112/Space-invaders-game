@@ -1,6 +1,7 @@
 <h1>"Space Invaders" Like Game</h1>
 
-A WIP Space invaders like game made in Java.
+A WIP Space invaders like game made in Java.</br>
+![game gif](https://github.com/EB2112/Space-invaders-game/blob/main/Space%20invaders%20game%20gif.gif)
 
 <h1>How It's Made</h1>
 
